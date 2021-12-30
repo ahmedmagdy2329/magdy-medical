@@ -41,6 +41,5 @@ function statsCount(el) {
 let spinner_loader = document.querySelector('.spinner');
 
 window.addEventListener('load', function() {
-    setTimeout
     spinner_loader.style.display = 'none';
 })
